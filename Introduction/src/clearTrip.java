@@ -20,7 +20,6 @@ public class clearTrip {
 		driver.findElement(By.id("FromTag")).sendKeys("cin");
 //		List<WebElement> options = driver.findElements(By.className("list"));
 //		System.out.println(options);
-//		TODO
 		
 
 	}
