@@ -10,6 +10,7 @@ public class alert {
 		System.setProperty("webdriver.chrome.driver","/Users/shabarishkesa/Desktop/chromedriver");
 		String text = "Shabarish";
 //		String test = "";
+		
 		// Create WebDriver Object for chrome driver
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/AutomationPractice/");

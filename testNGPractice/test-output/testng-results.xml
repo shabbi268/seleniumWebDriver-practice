@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-17T01:07:21 EST" name="Suite" finished-at="2021-02-17T01:07:21 EST" duration-ms="43">
+    <groups>
+      <group name="smoke">
+        <method signature="basicsThree.webLoginCarLoan(java.lang.String)[pri:0, instance:testNGPracticePackage.basicsThree@548e6d58]" name="webLoginCarLoan" class="testNGPracticePackage.basicsThree"/>
+        <method signature="basicsTwo.Demo1()[pri:0, instance:testNGPracticePackage.basicsTwo@313b2ea6]" name="Demo1" class="testNGPracticePackage.basicsTwo"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2021-02-17T01:07:21 EST" name="All" finished-at="2021-02-17T01:07:21 EST" duration-ms="43">
+      <class name="testNGPracticePackage.basicsOne">
+        <test-method signature="Demo()[pri:0, instance:testNGPracticePackage.basicsOne@2f465398]" started-at="2021-02-17T01:07:21 EST" name="Demo" finished-at="2021-02-17T01:07:21 EST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- testNGPracticePackage.basicsOne -->
+      <class name="testNGPracticePackage.basicsThree">
+        <test-method is-config="true" signature="mobileLoginCarLoan()[pri:0, instance:testNGPracticePackage.basicsThree@548e6d58]" started-at="2021-02-17T01:07:21 EST" name="mobileLoginCarLoan" finished-at="2021-02-17T01:07:21 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginCarLoan -->
+        <test-method signature="apiLoginCarLoan()[pri:0, instance:testNGPracticePackage.basicsThree@548e6d58]" started-at="2021-02-17T01:07:21 EST" name="apiLoginCarLoan" finished-at="2021-02-17T01:07:21 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiLoginCarLoan -->
+        <test-method is-config="true" signature="mobileLoginCarLoan()[pri:0, instance:testNGPracticePackage.basicsThree@548e6d58]" started-at="2021-02-17T01:07:21 EST" name="mobileLoginCarLoan" finished-at="2021-02-17T01:07:21 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginCarLoan -->
+        <test-method signature="webLoginCarLoan(java.lang.String)[pri:0, instance:testNGPracticePackage.basicsThree@548e6d58]" started-at="2021-02-17T01:07:21 EST" name="webLoginCarLoan" finished-at="2021-02-17T01:07:21 EST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginCarLoan -->
+      </class> <!-- testNGPracticePackage.basicsThree -->
+      <class name="testNGPracticePackage.basicsFour">
+        <test-method is-config="true" signature="apiLoginHomeLoan()[pri:0, instance:testNGPracticePackage.basicsFour@623a8092]" started-at="2021-02-17T01:07:21 EST" name="apiLoginHomeLoan" finished-at="2021-02-17T01:07:21 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiLoginHomeLoan -->
+        <test-method signature="mobileLoginHomeLoan()[pri:0, instance:testNGPracticePackage.basicsFour@623a8092]" started-at="2021-02-17T01:07:21 EST" name="mobileLoginHomeLoan" finished-at="2021-02-17T01:07:21 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginHomeLoan -->
+        <test-method is-config="true" signature="webLoginHomeLoan()[pri:0, instance:testNGPracticePackage.basicsFour@623a8092]" started-at="2021-02-17T01:07:21 EST" name="webLoginHomeLoan" finished-at="2021-02-17T01:07:21 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginHomeLoan -->
+      </class> <!-- testNGPracticePackage.basicsFour -->
+      <class name="testNGPracticePackage.basicsTwo">
+        <test-method is-config="true" signature="Demo2()[pri:0, instance:testNGPracticePackage.basicsTwo@313b2ea6]" started-at="2021-02-17T01:07:21 EST" name="Demo2" finished-at="2021-02-17T01:07:21 EST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+        <test-method signature="Demo1()[pri:0, instance:testNGPracticePackage.basicsTwo@313b2ea6]" started-at="2021-02-17T01:07:21 EST" name="Demo1" finished-at="2021-02-17T01:07:21 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo1 -->
+      </class> <!-- testNGPracticePackage.basicsTwo -->
+    </test> <!-- All -->
+  </suite> <!-- Suite -->
+</testng-results>
