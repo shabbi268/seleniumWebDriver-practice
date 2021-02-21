@@ -1,0 +1,7 @@
+14:27:38.345 [main] DEBUG Tests.act - Now hitting Amazon server
+14:27:40.053 [main] INFO  Tests.act - Landed on amazon home page
+14:27:41.796 [main] DEBUG Tests.act - Getting the frames count
+14:27:41.821 [main] INFO  Tests.act - Frames count retreived
+14:27:41.833 [main] INFO  Tests.act - Successfully switched to frame
+14:27:41.833 [main] DEBUG Tests.act - Identifying Draggable objects
+14:27:42.135 [main] INFO  Tests.act - Drag and drop success

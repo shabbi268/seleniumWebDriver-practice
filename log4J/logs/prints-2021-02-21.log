@@ -1,0 +1,9 @@
+14:17:05.479 [main] ERROR packageA.DemoA - I am an error log
+14:17:05.481 [main] FATAL packageA.DemoA - This is fatal
+14:17:39.594 [main] DEBUG packageA.DemoA - Iam debugging
+14:17:39.595 [main] DEBUG packageA.DemoA - I am in Else loop
+14:17:39.595 [main] ERROR packageA.DemoA - I am an error log
+14:17:39.595 [main] FATAL packageA.DemoA - This is fatal
+14:27:05.810 [main] DEBUG Tests.act - Setting chrome driver property
+14:27:36.313 [main] DEBUG Tests.act - Setting chrome driver property
+14:27:38.345 [main] INFO  Tests.act - Window Maximized
